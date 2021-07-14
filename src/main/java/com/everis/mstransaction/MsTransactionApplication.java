@@ -1,4 +1,4 @@
-package com.example.mstransaction;
+package com.everis.mstransaction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
